@@ -4,8 +4,12 @@ Dear candidate, we are glad to see you soon at a pair programming session.
 You’ll spend 1 - 2 hours with our developers working on a task and coding.
 
 We would like you to shine and kindly suggest you prepare the most convenient
-development environment to have a pleasant & productive exercise. Please 
-prepare your computer with a pre-configured IDE as well as git installed. 
+development environment to have a pleasant & productive exercise. 
+
+We expect you to have the following ready before joining the session:
++ properly configured your IDE of choice;
++ created an empty vue project;
++ installed tailwind css into the project (optional)
 
 We will be coding in Vue.js version 2 or 3. For the CSS, you preferably use Tailwind css or you can also use vanilla css.
 
