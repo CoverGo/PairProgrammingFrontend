@@ -8,8 +8,8 @@ development environment to have a pleasant & productive exercise.
 
 We expect you to have the following ready before joining the session:
 + Properly configured your IDE of choice;
-+ Created an empty vue project;
-+ Installed tailwind css into the project (optional)
++ Created an empty Vue project;
++ Installed Tailwind css into the project (optional)
 
 We will be coding in Vue.js version 2 or 3. For the CSS, you preferably use Tailwind css or you can also use vanilla css.
 
