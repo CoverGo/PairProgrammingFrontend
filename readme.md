@@ -7,9 +7,9 @@ We would like you to shine and kindly suggest you prepare the most convenient
 development environment to have a pleasant & productive exercise. 
 
 We expect you to have the following ready before joining the session:
-+ properly configured your IDE of choice;
-+ created an empty vue project;
-+ installed tailwind css into the project (optional)
++ Properly configured your IDE of choice;
++ Created an empty vue project;
++ Installed tailwind css into the project (optional)
 
 We will be coding in Vue.js version 2 or 3. For the CSS, you preferably use Tailwind css or you can also use vanilla css.
 
