@@ -13,7 +13,7 @@ We expect you to have the following ready before joining the session:
 
 We will be coding in Vue.js version 2 or 3. For the CSS, you preferably use Tailwind css or you can also use vanilla css. 
 
-**We allow the use of vue-router but do NOT allow the use of external libraries such vue-bootstrap, vuetify etc.**
+**We allow the use of vue-router and vuex but do NOT allow the use of external libraries such vue-bootstrap, vuetify etc.**
 
 The task will consist of several requirements, which will be given to you one by one.
 CoverGo developers are playing Business Analyst roles and will provide you all information about requirements and will answer questions. After you say that the requirement is fulfilled, we’ll give you the next one. 
